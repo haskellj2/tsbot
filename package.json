@@ -1,0 +1,20 @@
+{
+    "name": "bot",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node select5from8.js"
+    },
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.2",
+        "jshint": "^2.9.5",
+        "node-schedule": "1.2.4",
+        "pg": "^7.1.0",
+        "ws": "3.1.0",
+        "nodemailer": "4.0.1",
+        "loki": "0.5.3",
+        "technicalindicators": "1.0.19",
+        "underscore": "1.8.3",
+        "unzip": "0.1.11"
+    }
+}
