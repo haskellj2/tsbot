@@ -24,7 +24,7 @@ ts_configurations.prototype.get_bot_email_config = function() {
         pass: '[PASSWORD]'
     }
 
-    const receiver = 'henry.x.ji@gmail.com'
+    const receiver = 'playwithhaskell@gmail.com'
 
     return (sender, receiver)
 };
